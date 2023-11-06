@@ -40,7 +40,7 @@ https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2
 
 Create a new **lib** folder in your Java application and place all the dependencies (JAR files)
 
-
+![image](https://github.com/luiscoco/Kafka_Java_Consumer_Serialize_message_to_JSON/assets/32194879/7570c1b1-b6ce-48df-a973-7c2f08cf0680)
 
 ## 4. Run zookeeper and kafka-server
 
