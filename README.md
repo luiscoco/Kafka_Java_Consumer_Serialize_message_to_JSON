@@ -108,6 +108,8 @@ Create a new **lib** folder in your Java application and place all the dependenc
 
 ![image](https://github.com/luiscoco/Kafka_Java_Consumer_Serialize_message_to_JSON/assets/32194879/7570c1b1-b6ce-48df-a973-7c2f08cf0680)
 
+![image](https://github.com/luiscoco/Kafka_Java_Consumer_Serialize_message_to_JSON/assets/32194879/6052dc30-43dc-48f0-a724-deb6ec1ed6ff)
+
 ## 4. Run zookeeper and kafka-server
 
 Run the following command to execute **zookeeper**:
